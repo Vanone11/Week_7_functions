@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.AssemblyInfo.cs
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.exe
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.deps.json
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.runtimeconfig.json
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.runtimeconfig.dev.json
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.dll
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\ref\WEEEEK_7.dll
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\bin\Release\net5.0\WEEEEK_7.pdb
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.dll
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\ref\WEEEEK_7.dll
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.pdb
+C:\Users\user\source\repos\WEEEEK_7\WEEEEK_7\obj\Release\net5.0\WEEEEK_7.genruntimeconfig.cache

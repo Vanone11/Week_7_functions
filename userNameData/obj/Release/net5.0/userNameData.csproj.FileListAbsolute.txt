@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.exe
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.deps.json
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.runtimeconfig.json
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.runtimeconfig.dev.json
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.dll
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\ref\userNameData.dll
+C:\Users\user\source\repos\WEEEEK_7\userNameData\bin\Release\net5.0\userNameData.pdb
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.AssemblyInfo.cs
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.dll
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\ref\userNameData.dll
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.pdb
+C:\Users\user\source\repos\WEEEEK_7\userNameData\obj\Release\net5.0\userNameData.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.exe
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.deps.json
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.runtimeconfig.json
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.runtimeconfig.dev.json
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.dll
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\ref\UserNameDataTask.dll
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\bin\Release\net5.0\UserNameDataTask.pdb
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.AssemblyInfo.cs
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.dll
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\ref\UserNameDataTask.dll
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.pdb
+C:\Users\user\source\repos\WEEEEK_7\UserNameDataTask\obj\Release\net5.0\UserNameDataTask.genruntimeconfig.cache
